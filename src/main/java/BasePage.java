@@ -359,11 +359,11 @@ public class BasePage {
         }
     }
 
-    public void uncheck(By locator) {
-        if (driver.findElement(locator).isSelected()) {
-            click(locator);
-        }
-    }
+//    public void uncheck(By locator) {
+//        if (driver.findElement(locator).isSelected()) {
+//            click(locator);
+//        }
+//    }
 
     // =========================
     // 🔹 UTILITY METHODS
