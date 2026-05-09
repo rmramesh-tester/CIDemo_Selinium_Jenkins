@@ -307,11 +307,11 @@ public class BasePage {
         return driver.getWindowHandle();
     }
 
-    public void switchToNewWindow() {
-        for (String win : driver.getWindowHandles()) {
-            driver.switchTo().window(win);
-        }
-    }
+//    public void switchToNewWindow() {
+//        for (String win : driver.getWindowHandles()) {
+//            driver.switchTo().window(win);
+//        }
+//    }
 
     // =========================
     // 🔹 NAVIGATION
