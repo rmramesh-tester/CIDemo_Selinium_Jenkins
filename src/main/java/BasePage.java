@@ -353,11 +353,11 @@ public class BasePage {
     // 🔹 CHECKBOX / RADIO
     // =========================
 
-    public void check(By locator) {
-        if (!driver.findElement(locator).isSelected()) {
-            click(locator);
-        }
-    }
+//    public void check(By locator) {
+//        if (!driver.findElement(locator).isSelected()) {
+//            click(locator);
+//        }
+//    }
 
 //    public void uncheck(By locator) {
 //        if (driver.findElement(locator).isSelected()) {
