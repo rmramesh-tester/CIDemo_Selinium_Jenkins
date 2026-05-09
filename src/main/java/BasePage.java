@@ -173,9 +173,9 @@ public class BasePage {
         actions.moveToElement(driver.findElement(locator)).perform();
     }
 
-    public void doubleClick(By locator) {
-        actions.doubleClick(driver.findElement(locator)).perform();
-    }
+//    public void doubleClick(By locator) {
+//        actions.doubleClick(driver.findElement(locator)).perform();
+//    }
 
 //    public void rightClick(By locator) {
 //        actions.contextClick(driver.findElement(locator)).perform();
