@@ -1,0 +1,485 @@
+2026-05-01 22:47:52.006 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-01 22:47:52.118 [main] INFO  BaseTest - ***************Executing test: RegistrationTest***************
+2026-05-01 22:47:53.340 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-01 22:47:53.403 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-01 22:48:06.715 [main] INFO  BasePage - [sendKeys] Entered 'Francoise' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-01 22:48:07.693 [main] INFO  BasePage - [sendKeys] Entered 'Runolfsson' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-01 22:48:07.890 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-01 22:48:08.093 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-01 22:48:08.912 [main] INFO  BasePage - [sendKeys] Entered '94769 Greg Crossing' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-01 22:48:09.082 [main] INFO  BasePage - [sendKeys] Entered '911' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-01 22:48:09.319 [main] INFO  BasePage - [sendKeys] Entered 'Alaska' into element: By.cssSelector: #vfb-13-city
+2026-05-01 22:48:09.503 [main] INFO  BasePage - [sendKeys] Entered '94256' into element: By.cssSelector: #vfb-13-zip
+2026-05-01 22:48:09.732 [main] INFO  BasePage - [sendKeys] Entered 'PA' into element: By.cssSelector: #vfb-13-state
+2026-05-01 22:48:10.064 [main] INFO  BasePage - [sendKeys] Entered 'abby.leannon@yahoo.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-01 22:48:10.400 [main] INFO  BasePage - [sendKeys] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-01 22:48:10.919 [main] INFO  BasePage - [sendKeys] Entered '33' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-01 22:48:14.570 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-4"]
+2026-05-01 22:48:17.569 [main] INFO  BaseTest - ************Executed test: RegistrationTest - Browser closed successfully**********
+2026-05-01 22:52:52.489 [main] INFO  BaseTest - ***************Executing test: RegistrationTest***************
+2026-05-01 22:52:53.462 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-01 22:52:53.521 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-01 22:53:05.815 [main] INFO  BasePage - [sendKeys] Entered 'Tamika' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-01 22:53:06.686 [main] INFO  BasePage - [sendKeys] Entered 'Gutkowski' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-01 22:53:06.945 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-01 22:53:07.162 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-01 22:53:07.971 [main] INFO  BasePage - [sendKeys] Entered '91043 Labadie Village' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-01 22:53:08.144 [main] INFO  BasePage - [sendKeys] Entered '735' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-01 22:53:08.338 [main] INFO  BasePage - [sendKeys] Entered 'Wisconsin' into element: By.cssSelector: #vfb-13-city
+2026-05-01 22:53:08.549 [main] INFO  BasePage - [sendKeys] Entered '80420-6843' into element: By.cssSelector: #vfb-13-zip
+2026-05-01 22:53:08.726 [main] INFO  BasePage - [sendKeys] Entered 'VT' into element: By.cssSelector: #vfb-13-state
+2026-05-01 22:53:09.017 [main] INFO  BasePage - [sendKeys] Entered 'dallas.reichert@hotmail.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-01 22:53:09.244 [main] INFO  BasePage - [sendKeys] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-01 22:53:09.540 [main] INFO  BasePage - [sendKeys] Entered '33' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-01 22:53:13.646 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-4"]
+2026-05-01 22:53:16.269 [main] INFO  BaseTest - ************Executed test: RegistrationTest - Browser closed successfully**********
+2026-05-01 22:57:56.045 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-01 22:57:56.067 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-01 22:57:56.580 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-01_22-57-56.html
+2026-05-01 22:57:56.657 [main] INFO  BaseTest - ***************Executing test: RegistrationTest***************
+2026-05-01 22:57:57.637 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-01 22:57:57.751 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-01 22:58:03.309 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-01 22:58:10.422 [main] INFO  BasePage - [sendKeys] Entered 'Kandice' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-01 22:58:11.378 [main] INFO  BasePage - [sendKeys] Entered 'Balistreri' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-01 22:58:11.691 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-01 22:58:11.857 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-01 22:58:12.622 [main] INFO  BasePage - [sendKeys] Entered '389 Kortney Ford' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-01 22:58:12.773 [main] INFO  BasePage - [sendKeys] Entered '0902' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-01 22:58:12.955 [main] INFO  BasePage - [sendKeys] Entered 'Kansas' into element: By.cssSelector: #vfb-13-city
+2026-05-01 22:58:13.089 [main] INFO  BasePage - [sendKeys] Entered '07104' into element: By.cssSelector: #vfb-13-zip
+2026-05-01 22:58:13.240 [main] INFO  BasePage - [sendKeys] Entered 'NJ' into element: By.cssSelector: #vfb-13-state
+2026-05-01 22:58:13.523 [main] INFO  BasePage - [sendKeys] Entered 'rodrick.harris@gmail.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-01 22:58:13.691 [main] INFO  BasePage - [sendKeys] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-01 22:58:14.007 [main] INFO  BasePage - [sendKeys] Entered '33' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-01 22:58:17.708 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-4"]
+2026-05-01 22:58:19.721 [main] INFO  ExtentReportListener - ✓ Test PASSED: testRegistration
+2026-05-01 22:58:20.455 [main] INFO  BaseTest - ************Executed test: RegistrationTest - Browser closed successfully**********
+2026-05-01 22:58:20.455 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-01 22:58:21.002 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-01 23:10:16.538 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-01 23:10:16.563 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-01 23:10:17.127 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-01_23-10-16.html
+2026-05-01 23:10:18.241 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-01 23:10:18.307 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-01 23:10:29.546 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-01 23:10:31.036 [main] INFO  BasePage - 2026-05-01 23:10:31.035 [sendKeys] Entered 'Oscar' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-01 23:10:31.862 [main] INFO  BasePage - 2026-05-01 23:10:31.862 [sendKeys] Entered 'Botsford' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-01 23:10:32.091 [main] INFO  BasePage - 2026-05-01 23:10:32.091 [click] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-01 23:10:32.282 [main] INFO  BasePage - 2026-05-01 23:10:32.282 [click] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-01 23:10:33.068 [main] INFO  BasePage - 2026-05-01 23:10:33.068 [sendKeys] Entered '202 Luettgen Plains' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-01 23:10:33.222 [main] INFO  BasePage - 2026-05-01 23:10:33.222 [sendKeys] Entered '27101' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-01 23:10:33.396 [main] INFO  BasePage - 2026-05-01 23:10:33.396 [sendKeys] Entered 'Washington' into element: By.cssSelector: #vfb-13-city
+2026-05-01 23:10:33.548 [main] INFO  BasePage - 2026-05-01 23:10:33.548 [sendKeys] Entered '65886' into element: By.cssSelector: #vfb-13-zip
+2026-05-01 23:10:33.715 [main] INFO  BasePage - 2026-05-01 23:10:33.715 [sendKeys] Entered 'IL' into element: By.cssSelector: #vfb-13-state
+2026-05-01 23:10:33.981 [main] INFO  BasePage - 2026-05-01 23:10:33.981 [sendKeys] Entered 'marcos.conn@yahoo.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-01 23:10:34.197 [main] INFO  BasePage - 2026-05-01 23:10:34.197 [sendKeys] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-01 23:10:34.443 [main] INFO  BasePage - 2026-05-01 23:10:34.443 [sendKeys] Entered '33' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-01 23:10:38.259 [main] INFO  BasePage - 2026-05-01 23:10:38.259 [click] Clicked on element: By.xpath: //input[@id="vfb-4"]
+2026-05-01 23:10:40.274 [main] INFO  ExtentReportListener - ✓ Test PASSED: testRegistration
+2026-05-01 23:10:40.965 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-01 23:10:41.578 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-01 23:13:43.581 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-01 23:13:43.612 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-01 23:13:44.128 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-01_23-13-43.html
+2026-05-01 23:13:46.345 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-01 23:13:46.376 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-01 23:14:01.937 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-01 23:14:03.292 [main] INFO  BasePage - 2026-05-01 23:14:03.292 [sendKeys] Entered 'Sabina' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-01 23:14:04.162 [main] INFO  BasePage - 2026-05-01 23:14:04.162 [sendKeys] Entered 'Lebsack' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-01 23:14:04.378 [main] INFO  BasePage - 2026-05-01 23:14:04.378 [click] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-01 23:14:04.580 [main] INFO  BasePage - 2026-05-01 23:14:04.580 [click] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-01 23:14:05.330 [main] INFO  BasePage - 2026-05-01 23:14:05.330 [sendKeys] Entered '2705 Mark Neck' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-01 23:14:05.478 [main] INFO  BasePage - 2026-05-01 23:14:05.477 [sendKeys] Entered '8761' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-01 23:14:05.646 [main] INFO  BasePage - 2026-05-01 23:14:05.645 [sendKeys] Entered 'Iowa' into element: By.cssSelector: #vfb-13-city
+2026-05-01 23:14:05.816 [main] INFO  BasePage - 2026-05-01 23:14:05.816 [sendKeys] Entered '56188-5547' into element: By.cssSelector: #vfb-13-zip
+2026-05-01 23:14:05.998 [main] INFO  BasePage - 2026-05-01 23:14:05.998 [sendKeys] Entered 'IN' into element: By.cssSelector: #vfb-13-state
+2026-05-01 23:14:06.230 [main] INFO  BasePage - 2026-05-01 23:14:06.230 [sendKeys] Entered 'diedra.sawayn@yahoo.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-01 23:14:06.527 [main] INFO  BasePage - 2026-05-01 23:14:06.518 [sendKeys] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-01 23:14:06.898 [main] INFO  BasePage - 2026-05-01 23:14:06.898 [sendKeys] Entered '40' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-01 23:14:10.360 [main] INFO  BasePage - 2026-05-01 23:14:10.360 [click] Clicked on element: By.xpath: //input[@id="vfb-4"]
+2026-05-01 23:14:12.375 [main] INFO  ExtentReportListener - ✓ Test PASSED: testRegistration
+2026-05-01 23:14:13.031 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-01 23:14:13.641 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-01 23:15:00.294 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-01 23:15:00.325 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-01 23:15:00.825 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-01_23-15-00.html
+2026-05-01 23:15:01.981 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-01 23:15:02.028 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-01 23:15:12.742 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-01 23:15:14.154 [main] INFO  BasePage - 2026-05-01 23:15:14.154 [sendKeys] Entered 'Krysten' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-01 23:15:14.894 [main] INFO  BasePage - 2026-05-01 23:15:14.894 [sendKeys] Entered 'Hoppe' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-01 23:15:15.175 [main] INFO  BasePage - 2026-05-01 23:15:15.175 [click] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-01 23:15:15.389 [main] INFO  BasePage - 2026-05-01 23:15:15.389 [click] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-01 23:15:16.180 [main] INFO  BasePage - 2026-05-01 23:15:16.180 [sendKeys] Entered '93954 Arline Turnpike' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-01 23:15:16.328 [main] INFO  BasePage - 2026-05-01 23:15:16.328 [sendKeys] Entered '53372' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-01 23:15:16.494 [main] INFO  BasePage - 2026-05-01 23:15:16.494 [sendKeys] Entered 'Colorado' into element: By.cssSelector: #vfb-13-city
+2026-05-01 23:15:16.669 [main] INFO  BasePage - 2026-05-01 23:15:16.669 [sendKeys] Entered '82784-9890' into element: By.cssSelector: #vfb-13-zip
+2026-05-01 23:15:16.803 [main] INFO  BasePage - 2026-05-01 23:15:16.803 [sendKeys] Entered 'MO' into element: By.cssSelector: #vfb-13-state
+2026-05-01 23:15:17.085 [main] INFO  BasePage - 2026-05-01 23:15:17.085 [sendKeys] Entered 'rosina.herman@yahoo.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-01 23:15:17.292 [main] INFO  BasePage - 2026-05-01 23:15:17.292 [sendKeys] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-01 23:15:17.482 [main] INFO  BasePage - 2026-05-01 23:15:17.482 [sendKeys] Entered '40' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-01 23:16:17.884 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-01 23:16:17.884 [main] WARN  ExtentReportListener - Could not capture screenshot: driver
+2026-05-01 23:16:18.396 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-01 23:16:18.974 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-01 23:24:18.180 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-01 23:24:18.242 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-01 23:24:31.304 [main] INFO  BasePage - [sendKeys] Entered 'Chu' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-01 23:24:32.188 [main] INFO  BasePage - [sendKeys] Entered 'Stracke' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-01 23:24:32.376 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-01 23:24:32.544 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-01 23:24:33.403 [main] INFO  BasePage - [sendKeys] Entered '265 Blanda Rapid' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-01 23:24:33.620 [main] INFO  BasePage - [sendKeys] Entered '4534' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-01 23:24:33.870 [main] INFO  BasePage - [sendKeys] Entered 'Oklahoma' into element: By.cssSelector: #vfb-13-city
+2026-05-01 23:24:34.086 [main] INFO  BasePage - [sendKeys] Entered '59974-1119' into element: By.cssSelector: #vfb-13-zip
+2026-05-01 23:24:34.277 [main] INFO  BasePage - [sendKeys] Entered 'CO' into element: By.cssSelector: #vfb-13-state
+2026-05-01 23:24:34.517 [main] INFO  BasePage - [sendKeys] Entered 'harvey.frami@gmail.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-01 23:24:34.693 [main] INFO  BasePage - [sendKeys] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-01 23:24:34.931 [main] INFO  BasePage - [sendKeys] Entered '40' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-01 23:33:46.707 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-01 23:33:46.723 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-01 23:33:47.237 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-01_23-33-46.html
+2026-05-01 23:33:47.237 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-01 23:33:48.429 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-01 23:33:48.554 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-01 23:33:53.483 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-01 23:33:59.986 [main] INFO  BasePage - [sendKeys] Entered 'Cecil' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-01 23:34:00.857 [main] INFO  BasePage - [sendKeys] Entered 'Grant' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-01 23:34:01.060 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-01 23:34:01.256 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-01 23:34:02.005 [main] INFO  BasePage - [sendKeys] Entered '75516 Jast Wells' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-01 23:34:02.154 [main] INFO  BasePage - [sendKeys] Entered '6206' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-01 23:34:02.323 [main] INFO  BasePage - [sendKeys] Entered 'Kansas' into element: By.cssSelector: #vfb-13-city
+2026-05-01 23:34:02.471 [main] INFO  BasePage - [sendKeys] Entered '31325' into element: By.cssSelector: #vfb-13-zip
+2026-05-01 23:34:02.620 [main] INFO  BasePage - [sendKeys] Entered 'SD' into element: By.cssSelector: #vfb-13-state
+2026-05-01 23:34:02.871 [main] INFO  BasePage - [sendKeys] Entered 'weldon.yundt@yahoo.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-01 23:34:03.080 [main] INFO  BasePage - [sendKeys] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-01 23:34:03.292 [main] INFO  BasePage - [sendKeys] Entered '40' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-01 23:35:03.652 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-01 23:35:03.652 [main] WARN  ExtentReportListener - Could not capture screenshot: driver
+2026-05-01 23:35:04.153 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-01 23:35:04.809 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-01 23:47:51.332 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-01 23:47:51.363 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-01 23:47:51.832 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-01_23-47-51.html
+2026-05-01 23:47:51.847 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-01 23:47:52.811 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-01 23:47:52.890 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-01 23:47:58.557 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-01 23:48:05.010 [main] INFO  BasePage - [sendKeys] Entered 'Jeffrey' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-01 23:48:05.822 [main] INFO  BasePage - [sendKeys] Entered 'Fadel' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-01 23:48:06.040 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-01 23:48:06.306 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-01 23:48:07.057 [main] INFO  BasePage - [sendKeys] Entered '2249 Angel Club' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-01 23:48:07.188 [main] INFO  BasePage - [sendKeys] Entered '566' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-01 23:48:07.338 [main] INFO  BasePage - [sendKeys] Entered 'Texas' into element: By.cssSelector: #vfb-13-city
+2026-05-01 23:48:07.472 [main] INFO  BasePage - [sendKeys] Entered '24889' into element: By.cssSelector: #vfb-13-zip
+2026-05-01 23:48:07.607 [main] INFO  BasePage - [sendKeys] Entered 'NH' into element: By.cssSelector: #vfb-13-state
+2026-05-01 23:48:07.871 [main] INFO  BasePage - [sendKeys] Entered 'sheldon.halvorson@gmail.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-01 23:48:08.062 [main] INFO  BasePage - [sendKeys] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-01 23:48:08.283 [main] INFO  BasePage - [sendKeys] Entered '40' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-01 23:49:08.453 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-01 23:49:08.469 [main] WARN  ExtentReportListener - Could not capture screenshot: driver
+2026-05-01 23:49:09.603 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-01 23:49:10.709 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-01 23:53:02.372 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-01 23:53:02.418 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-01 23:53:14.080 [main] INFO  BasePage - [sendKeys] Entered 'Teodora' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-01 23:53:14.874 [main] INFO  BasePage - [sendKeys] Entered 'Gorczany' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-01 23:53:15.094 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-01 23:53:15.308 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-01 23:53:16.071 [main] INFO  BasePage - [sendKeys] Entered '63063 Rima Ridges' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-01 23:53:16.207 [main] INFO  BasePage - [sendKeys] Entered '009' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-01 23:53:16.362 [main] INFO  BasePage - [sendKeys] Entered 'Montana' into element: By.cssSelector: #vfb-13-city
+2026-05-01 23:53:16.515 [main] INFO  BasePage - [sendKeys] Entered '32503' into element: By.cssSelector: #vfb-13-zip
+2026-05-01 23:53:16.675 [main] INFO  BasePage - [sendKeys] Entered 'MN' into element: By.cssSelector: #vfb-13-state
+2026-05-01 23:53:16.885 [main] INFO  BasePage - [sendKeys] Entered 'guy.boyle@gmail.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-01 23:53:17.088 [main] INFO  BasePage - [sendKeys] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-01 23:53:17.293 [main] INFO  BasePage - [sendKeys] Entered '40' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-02 00:06:28.137 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-02 00:06:28.169 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-02 00:06:28.737 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-02_00-06-28.html
+2026-05-02 00:06:28.737 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-02 00:06:29.940 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-02 00:06:30.052 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-02 00:06:41.857 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-02 00:06:43.984 [main] INFO  BasePage - [sendKeys] Entered 'Lore' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-02 00:06:44.920 [main] INFO  BasePage - [sendKeys] Entered 'Price' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-02 00:06:45.146 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-02 00:06:45.352 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-02 00:06:46.174 [main] INFO  BasePage - [sendKeys] Entered '7117 Dibbert Canyon' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-02 00:06:46.355 [main] INFO  BasePage - [sendKeys] Entered '5543' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-02 00:06:46.597 [main] INFO  BasePage - [sendKeys] Entered 'California' into element: By.cssSelector: #vfb-13-city
+2026-05-02 00:06:46.952 [main] INFO  BasePage - [sendKeys] Entered '78551-6322' into element: By.cssSelector: #vfb-13-zip
+2026-05-02 00:06:47.129 [main] INFO  BasePage - [sendKeys] Entered 'TX' into element: By.cssSelector: #vfb-13-state
+2026-05-02 00:06:47.486 [main] INFO  BasePage - [sendKeys] Entered 'allen.kling@hotmail.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-02 00:06:47.733 [main] INFO  BasePage - [sendKeys] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-02 00:06:48.233 [main] INFO  BasePage - [sendKeys] Entered '40' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-02 00:06:53.014 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-4"]
+2026-05-02 00:06:55.032 [main] INFO  ExtentReportListener - ✓ Test PASSED: testRegistration
+2026-05-02 00:06:55.763 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-02 00:06:56.721 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-02 10:53:28.264 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-02 10:53:28.280 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-02 10:53:28.655 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-02_10-53-28.html
+2026-05-02 10:53:28.655 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-02 10:53:30.403 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-02 10:53:30.434 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-02 10:53:40.686 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-02 10:53:42.051 [main] INFO  BasePage - [sendKeys] Entered 'Jackie' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-02 10:53:42.932 [main] INFO  BasePage - [sendKeys] Entered 'Daniel' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-02 10:53:43.155 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-02 10:53:43.345 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-02 10:53:44.113 [main] INFO  BasePage - [sendKeys] Entered '253 Balistreri Rue' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-02 10:53:44.252 [main] INFO  BasePage - [sendKeys] Entered '2033' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-02 10:53:44.430 [main] INFO  BasePage - [sendKeys] Entered 'Arizona' into element: By.cssSelector: #vfb-13-city
+2026-05-02 10:53:44.573 [main] INFO  BasePage - [sendKeys] Entered '72589' into element: By.cssSelector: #vfb-13-zip
+2026-05-02 10:53:44.706 [main] INFO  BasePage - [sendKeys] Entered 'TX' into element: By.cssSelector: #vfb-13-state
+2026-05-02 10:53:44.973 [main] INFO  BasePage - [sendKeys] Entered 'porter.wisoky@gmail.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-02 10:53:45.215 [main] INFO  BasePage - [sendKeys] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-02 10:53:45.506 [main] INFO  BasePage - [sendKeys] Entered '40' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-02 10:53:48.761 [main] INFO  BasePage - [click] Clicked on element: By.xpath: //input[@id="vfb-4"]
+2026-05-02 10:53:50.775 [main] INFO  ExtentReportListener - ✓ Test PASSED: testRegistration
+2026-05-02 10:53:51.275 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-02 10:53:51.884 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-02 10:55:54.705 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-02 10:55:54.721 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-02 10:55:55.111 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-02_10-55-54.html
+2026-05-02 10:55:55.111 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-02 10:55:55.979 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-02 10:55:56.010 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-02 10:56:06.775 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-02 10:56:08.130 [main] INFO  BasePage - [INFO :] Entered 'Serita' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-02 10:56:09.014 [main] INFO  BasePage - [INFO :] Entered 'Lakin' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-02 10:56:09.211 [main] INFO  BasePage - [INFO :] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-02 10:56:09.443 [main] INFO  BasePage - [INFO :] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-02 10:56:10.250 [main] INFO  BasePage - [INFO :] Entered '82585 Bernier Throughway' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-02 10:56:10.388 [main] INFO  BasePage - [INFO :] Entered '00320' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-02 10:56:10.537 [main] INFO  BasePage - [INFO :] Entered 'Florida' into element: By.cssSelector: #vfb-13-city
+2026-05-02 10:56:10.692 [main] INFO  BasePage - [INFO :] Entered '58577-1648' into element: By.cssSelector: #vfb-13-zip
+2026-05-02 10:56:10.838 [main] INFO  BasePage - [INFO :] Entered 'GA' into element: By.cssSelector: #vfb-13-state
+2026-05-02 10:56:11.081 [main] INFO  BasePage - [INFO :] Entered 'bernetta.abernathy@hotmail.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-02 10:56:11.254 [main] INFO  BasePage - [INFO :] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-02 10:56:11.465 [main] INFO  BasePage - [INFO :] Entered '40' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-02 10:56:12.700 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-02 10:56:12.700 [main] WARN  ExtentReportListener - Could not capture screenshot: driver
+2026-05-02 10:56:13.310 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-02 10:56:13.779 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-02 10:57:56.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-02 10:57:56.278 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-02 10:57:56.637 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-02_10-57-56.html
+2026-05-02 10:57:56.637 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-02 10:57:57.409 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-02 10:57:57.456 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-02 10:58:07.984 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-02 10:58:09.282 [main] INFO  BasePage - [INFO :] Entered 'Erline' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-02 10:58:10.176 [main] INFO  BasePage - [INFO :] Entered 'Harvey' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-02 10:58:10.390 [main] INFO  BasePage - [INFO :] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-02 10:58:10.579 [main] INFO  BasePage - [INFO :] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-02 10:58:11.405 [main] INFO  BasePage - [INFO :] Entered '2377 Marvin Extension' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-02 10:58:11.537 [main] INFO  BasePage - [INFO :] Entered '749' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-02 10:58:11.724 [main] INFO  BasePage - [INFO :] Entered 'Pennsylvania' into element: By.cssSelector: #vfb-13-city
+2026-05-02 10:58:11.861 [main] INFO  BasePage - [INFO :] Entered '23522' into element: By.cssSelector: #vfb-13-zip
+2026-05-02 10:58:12.003 [main] INFO  BasePage - [INFO :] Entered 'ND' into element: By.cssSelector: #vfb-13-state
+2026-05-02 10:58:12.209 [main] INFO  BasePage - [INFO :] Entered 'mario.mcdermott@hotmail.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-02 10:58:12.364 [main] INFO  BasePage - [INFO :] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-02 10:58:12.605 [main] INFO  BasePage - [INFO :] Entered '40' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-02 10:58:13.782 [main] INFO  ExtentReportListener - ✓ Test PASSED: testRegistration
+2026-05-02 10:58:14.303 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-02 10:58:14.772 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-02 11:00:32.415 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-02 11:00:32.430 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-02 11:00:32.774 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-02_11-00-32.html
+2026-05-02 11:00:32.774 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-02 11:00:33.584 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-02 11:00:33.615 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-02 11:00:43.739 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-02 11:00:45.004 [main] INFO  BasePage - [INFO :] Entered 'Terry' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-02 11:00:45.770 [main] INFO  BasePage - [INFO :] Entered 'Cummings' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-02 11:00:46.026 [main] INFO  BasePage - [INFO :] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-02 11:00:46.233 [main] INFO  BasePage - [INFO :] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-02 11:00:47.012 [main] INFO  BasePage - [INFO :] Entered '923 Shirleen Island' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-02 11:00:47.138 [main] INFO  BasePage - [INFO :] Entered '634' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-02 11:00:47.289 [main] INFO  BasePage - [INFO :] Entered 'Alaska' into element: By.cssSelector: #vfb-13-city
+2026-05-02 11:00:47.434 [main] INFO  BasePage - [INFO :] Entered '31842' into element: By.cssSelector: #vfb-13-zip
+2026-05-02 11:00:47.566 [main] INFO  BasePage - [INFO :] Entered 'AK' into element: By.cssSelector: #vfb-13-state
+2026-05-02 11:00:47.607 [main] INFO  ExtentReportListener - ✓ Test PASSED: testRegistration
+2026-05-02 11:00:48.056 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-02 11:00:48.556 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-02 11:19:37.147 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-02 11:19:37.163 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-02 11:19:37.522 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-02_11-19-37.html
+2026-05-02 11:19:37.522 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-02 11:19:38.308 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-02 11:19:38.355 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-02 11:19:48.187 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-02 11:19:49.512 [main] INFO  BasePage - [INFO] Entered 'Brad' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-02 11:19:50.333 [main] INFO  BasePage - [INFO] Entered 'Feest' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-02 11:19:50.559 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-02 11:19:50.777 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-02 11:19:51.562 [main] INFO  BasePage - [INFO] Entered '0640 Thiel Cape' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-02 11:19:51.693 [main] INFO  BasePage - [INFO] Entered '55981' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-02 11:19:51.853 [main] INFO  BasePage - [INFO] Entered 'Nevada' into element: By.cssSelector: #vfb-13-city
+2026-05-02 11:19:52.026 [main] INFO  BasePage - [INFO] Entered '01992-3344' into element: By.cssSelector: #vfb-13-zip
+2026-05-02 11:19:52.159 [main] INFO  BasePage - [INFO] Entered 'WV' into element: By.cssSelector: #vfb-13-state
+2026-05-02 11:20:52.535 [main] INFO  ExtentReportListener - ✓ Test PASSED: testRegistration
+2026-05-02 11:20:53.330 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-02 11:20:53.814 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-02 11:25:07.498 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-02 11:25:07.514 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-02 11:25:07.873 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-02_11-25-07.html
+2026-05-02 11:25:07.873 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-02 11:25:08.708 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-02 11:25:08.739 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-02 11:25:18.951 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-02 11:25:20.275 [main] INFO  BasePage - [INFO] Entered 'Cleveland' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-02 11:25:21.112 [main] INFO  BasePage - [INFO] Entered 'Sporer' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-02 11:25:21.361 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-02 11:25:21.564 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-02 11:25:22.339 [main] INFO  BasePage - [INFO] Entered '57745 Quitzon River' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-02 11:25:22.445 [main] INFO  BasePage - [INFO] Entered '509' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-02 11:25:22.595 [main] INFO  BasePage - [INFO] Entered 'South Dakota' into element: By.cssSelector: #vfb-13-city
+2026-05-02 11:25:22.726 [main] INFO  BasePage - [INFO] Entered '53680-2953' into element: By.cssSelector: #vfb-13-zip
+2026-05-02 11:25:22.845 [main] INFO  BasePage - [INFO] Entered 'VT' into element: By.cssSelector: #vfb-13-state
+2026-05-02 11:25:23.005 [main] INFO  BasePage - [INFO] Entered 'soledad.yost@yahoo.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-02 11:25:23.186 [main] INFO  BasePage - [INFO] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-02 11:25:23.339 [main] INFO  BasePage - [INFO] Entered '40' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-02 11:25:24.554 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-02 11:25:24.554 [main] WARN  ExtentReportListener - Could not capture screenshot: driver
+2026-05-02 11:25:24.923 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-02 11:25:25.460 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-02 11:28:20.623 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-02 11:28:20.670 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-02 11:28:32.230 [main] INFO  BasePage - [INFO] Entered 'Desmond' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-02 11:28:33.087 [main] INFO  BasePage - [INFO] Entered 'Casper' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-02 11:28:33.294 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-02 11:28:33.485 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-02 11:28:34.314 [main] INFO  BasePage - [INFO] Entered '206 Rosenbaum Stravenue' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-02 11:28:34.449 [main] INFO  BasePage - [INFO] Entered '0654' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-02 11:28:34.608 [main] INFO  BasePage - [INFO] Entered 'Alaska' into element: By.cssSelector: #vfb-13-city
+2026-05-02 11:28:34.806 [main] INFO  BasePage - [INFO] Entered '16507-9728' into element: By.cssSelector: #vfb-13-zip
+2026-05-02 11:28:34.962 [main] INFO  BasePage - [INFO] Entered 'KY' into element: By.cssSelector: #vfb-13-state
+2026-05-02 11:28:35.202 [main] INFO  BasePage - [INFO] Entered 'alishia.purdy@yahoo.com' into element: By.xpath: //input[@id="vfb-14"]
+2026-05-02 11:28:35.375 [main] INFO  BasePage - [INFO] Entered '9874561231' into element: By.xpath: //input[@id="vfb-19"]
+2026-05-02 11:28:35.644 [main] INFO  BasePage - [INFO] Entered '40' into element: By.xpath: //input[@id="vfb-3"]
+2026-05-02 11:28:39.284 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //input[@id="vfb-4"]
+2026-05-02 11:29:50.812 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-02 11:29:50.876 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-02 11:30:02.239 [main] INFO  BasePage - [INFO] Entered 'Veronika' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-02 11:30:03.078 [main] INFO  BasePage - [INFO] Entered 'Heaney' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-02 11:30:03.305 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-02 11:30:03.493 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-02 11:30:04.279 [main] INFO  BasePage - [INFO] Entered '6717 Bryce Mall' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-02 11:30:04.455 [main] INFO  BasePage - [INFO] Entered '04844' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-02 11:30:04.638 [main] INFO  BasePage - [INFO] Entered 'New Mexico' into element: By.cssSelector: #vfb-13-city
+2026-05-02 11:30:04.786 [main] INFO  BasePage - [INFO] Entered '68503' into element: By.cssSelector: #vfb-13-zip
+2026-05-02 11:30:04.972 [main] INFO  BasePage - [INFO] Entered 'MS' into element: By.cssSelector: #vfb-13-state
+2026-05-02 11:32:26.901 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-02 11:32:26.967 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-02 11:32:39.115 [main] INFO  BasePage - [INFO] Entered 'Adelaide' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-02 11:32:40.064 [main] INFO  BasePage - [INFO] Entered 'Douglas' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-02 11:32:40.282 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-02 11:32:40.486 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-02 11:32:41.347 [main] INFO  BasePage - [INFO] Entered '00063 Anderson Shoal' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-02 11:32:41.529 [main] INFO  BasePage - [INFO] Entered '14358' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-02 11:32:41.712 [main] INFO  BasePage - [INFO] Entered 'Alaska' into element: By.cssSelector: #vfb-13-city
+2026-05-02 11:32:41.912 [main] INFO  BasePage - [INFO] Entered '08029-6595' into element: By.cssSelector: #vfb-13-zip
+2026-05-02 11:32:42.091 [main] INFO  BasePage - [INFO] Entered 'NV' into element: By.cssSelector: #vfb-13-state
+2026-05-02 11:37:01.134 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-02 11:37:01.154 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-02 11:37:01.546 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-02_11-37-01.html
+2026-05-02 11:37:01.546 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-02 11:37:02.393 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 147.0.7727.117 (resolved driver for Chrome 147)
+2026-05-02 11:37:02.445 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\147.0.7727.117\chromedriver.exe
+2026-05-02 11:37:13.516 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-02 11:37:13.538 [main] INFO  ExtentReportListener - [Driver] Stored WebDriver instance for screenshot capture
+2026-05-02 11:37:15.413 [main] INFO  BasePage - [INFO] Entered 'Lacy' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-02 11:37:16.372 [main] INFO  BasePage - [INFO] Entered 'Hauck' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-02 11:37:16.630 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-02 11:37:16.899 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-02 11:37:17.813 [main] INFO  BasePage - [INFO] Entered '1091 Kieth Meadow' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-02 11:37:18.017 [main] INFO  BasePage - [INFO] Entered '847' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-02 11:37:18.342 [main] INFO  BasePage - [INFO] Entered 'Louisiana' into element: By.cssSelector: #vfb-13-city
+2026-05-02 11:37:18.689 [main] INFO  BasePage - [INFO] Entered '57166-5136' into element: By.cssSelector: #vfb-13-zip
+2026-05-02 11:37:18.990 [main] INFO  BasePage - [INFO] Entered 'VT' into element: By.cssSelector: #vfb-13-state
+2026-05-02 11:38:19.188 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-02 11:38:19.414 [main] INFO  ExtentReportListener - [Screenshot] Captured and saved: C:\Users\Admin\IdeaProjects\TestNGProject\test-output\screenshots\testRegistration_1777702099393.png
+2026-05-02 11:38:19.422 [main] INFO  ExtentReportListener - Screenshot attached to report: ./screenshots/testRegistration_1777702099393.png
+2026-05-02 11:38:20.050 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-02 11:38:21.087 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-09 18:11:27.547 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-09 18:11:27.562 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-09 18:11:28.043 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-09_18-11-27.html
+2026-05-09 18:11:28.044 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-09 18:11:29.756 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.97 (resolved driver for Chrome 148)
+2026-05-09 18:11:29.794 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\148.0.7778.97\chromedriver.exe
+2026-05-09 18:11:39.807 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-09 18:11:39.832 [main] INFO  ExtentReportListener - [Driver] Stored WebDriver instance for screenshot capture
+2026-05-09 18:11:41.500 [main] INFO  BasePage - [INFO] Entered 'Brad' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-09 18:11:42.581 [main] INFO  BasePage - [INFO] Entered 'Runolfsson' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-09 18:11:42.728 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-09 18:11:42.916 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-09 18:11:43.697 [main] INFO  BasePage - [INFO] Entered '34594 Veda Curve' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-09 18:11:43.830 [main] INFO  BasePage - [INFO] Entered '391' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-09 18:11:44.024 [main] INFO  BasePage - [INFO] Entered 'Massachusetts' into element: By.cssSelector: #vfb-13-city
+2026-05-09 18:11:44.248 [main] INFO  BasePage - [INFO] Entered '60583-1620' into element: By.cssSelector: #vfb-13-zip
+2026-05-09 18:11:44.408 [main] INFO  BasePage - [INFO] Entered 'ID' into element: By.cssSelector: #vfb-13-state
+2026-05-09 18:12:44.488 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-09 18:12:44.745 [main] INFO  ExtentReportListener - [Screenshot] Captured and saved: C:\Users\Admin\IdeaProjects\TestNGProject\test-output\screenshots\testRegistration_1778330564736.png
+2026-05-09 18:12:44.749 [main] INFO  ExtentReportListener - Screenshot attached to report: ./screenshots/testRegistration_1778330564736.png
+2026-05-09 18:12:45.314 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-09 18:12:45.794 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-09 18:14:52.130 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-09 18:14:52.145 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-09 18:14:52.498 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-09_18-14-52.html
+2026-05-09 18:14:52.498 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-09 18:14:53.390 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.97 (resolved driver for Chrome 148)
+2026-05-09 18:14:53.448 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\148.0.7778.97\chromedriver.exe
+2026-05-09 18:15:03.087 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-09 18:15:03.115 [main] INFO  ExtentReportListener - [Driver] Stored WebDriver instance for screenshot capture
+2026-05-09 18:15:04.598 [main] INFO  BasePage - [INFO] Entered 'Matilde' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-09 18:15:05.491 [main] INFO  BasePage - [INFO] Entered 'Christiansen' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-09 18:15:05.691 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //label[normalize-space()="Female"]
+2026-05-09 18:15:05.861 [main] INFO  BasePage - [INFO] Clicked on element: By.xpath: //input[@id="vfb-20-1"]
+2026-05-09 18:15:06.661 [main] INFO  BasePage - [INFO] Entered '330 Jakubowski Hill' into element: By.xpath: //input[@id="vfb-13-address"]
+2026-05-09 18:15:06.811 [main] INFO  BasePage - [INFO] Entered '75834' into element: By.xpath: //input[@id="vfb-13-address-2"]
+2026-05-09 18:15:07.017 [main] INFO  BasePage - [INFO] Entered 'New Mexico' into element: By.cssSelector: #vfb-13-city
+2026-05-09 18:15:07.204 [main] INFO  BasePage - [INFO] Entered '72172-6037' into element: By.cssSelector: #vfb-13-zip
+2026-05-09 18:15:09.211 [main] INFO  ExtentReportListener - ✓ Test PASSED: testRegistration
+2026-05-09 18:15:09.682 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-09 18:15:10.234 [main] INFO  ExtentReportListener - Extent Report generated successfully!

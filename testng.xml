@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-current.dtd" >
+<suite name="TestNGProject Suite">
+    <listeners>
+        <listener class-name="ExtentReportListener"/>
+    </listeners>
+
+    <test name="Registration Test">
+        <classes>
+            <class name="RegistrationTest"/>
+        </classes>
+    </test>
+</suite>
+
