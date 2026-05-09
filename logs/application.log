@@ -483,3 +483,141 @@
 2026-05-09 18:15:09.211 [main] INFO  ExtentReportListener - ✓ Test PASSED: testRegistration
 2026-05-09 18:15:09.682 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
 2026-05-09 18:15:10.234 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-09 19:05:24.518 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-09 19:05:24.532 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-09 19:05:24.873 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-09_19-05-24.html
+2026-05-09 19:05:24.874 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-09 19:05:25.616 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.97 (resolved driver for Chrome 148)
+2026-05-09 19:05:25.669 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\148.0.7778.97\chromedriver.exe
+2026-05-09 19:05:34.751 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-09 19:05:34.777 [main] INFO  ExtentReportListener - [Driver] Stored WebDriver instance for screenshot capture
+2026-05-09 19:05:36.205 [main] INFO  BasePage - [INFO] Entered 'Roland' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-09 19:05:36.944 [main] INFO  BasePage - [INFO] Entered 'Bernier' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-09 19:05:38.195 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-09 19:05:38.308 [main] INFO  ExtentReportListener - [Screenshot] Captured and saved: C:\Users\Admin\IdeaProjects\TestNGProject\test-output\screenshots\testRegistration_1778333738302.png
+2026-05-09 19:05:38.311 [main] INFO  ExtentReportListener - Screenshot attached to report: ./screenshots/testRegistration_1778333738302.png
+2026-05-09 19:05:38.596 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-09 19:05:39.096 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-09 19:05:59.617 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-09 19:05:59.667 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-09 19:06:00.171 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-09_19-05-59.html
+2026-05-09 19:06:00.172 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-09 19:06:01.087 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.97 (resolved driver for Chrome 148)
+2026-05-09 19:06:01.176 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\148.0.7778.97\chromedriver.exe
+2026-05-09 19:06:10.257 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-09 19:06:10.275 [main] INFO  ExtentReportListener - [Driver] Stored WebDriver instance for screenshot capture
+2026-05-09 19:06:11.563 [main] INFO  BasePage - [INFO] Entered 'Janay' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-09 19:06:12.386 [main] INFO  BasePage - [INFO] Entered 'Hoeger' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-09 19:06:13.605 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-09 19:06:13.688 [main] INFO  ExtentReportListener - [Screenshot] Captured and saved: C:\Users\Admin\IdeaProjects\TestNGProject\test-output\screenshots\testRegistration_1778333773683.png
+2026-05-09 19:06:13.691 [main] INFO  ExtentReportListener - Screenshot attached to report: ./screenshots/testRegistration_1778333773683.png
+2026-05-09 19:06:14.345 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-09 19:06:14.847 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-09 19:08:41.242 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.97 (resolved driver for Chrome 148)
+2026-05-09 19:08:41.359 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\148.0.7778.97\chromedriver.exe
+2026-05-09 19:08:52.396 [main] INFO  BasePage - [INFO] Entered 'Bula' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-09 19:08:53.171 [main] INFO  BasePage - [INFO] Entered 'Krajcik' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-09 19:10:12.724 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-09 19:10:12.739 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-09 19:10:13.176 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-09_19-10-12.html
+2026-05-09 19:10:13.177 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-09 19:10:14.046 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.97 (resolved driver for Chrome 148)
+2026-05-09 19:10:14.119 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\148.0.7778.97\chromedriver.exe
+2026-05-09 19:10:18.644 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-09 19:10:18.676 [main] INFO  ExtentReportListener - [Driver] Stored WebDriver instance for screenshot capture
+2026-05-09 19:10:24.627 [main] INFO  BasePage - [INFO] Entered 'Jarod' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-09 19:10:25.339 [main] INFO  BasePage - [INFO] Entered 'Hane' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-09 19:10:26.506 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-09 19:10:26.587 [main] INFO  ExtentReportListener - [Screenshot] Captured and saved: C:\Users\Admin\IdeaProjects\TestNGProject\test-output\screenshots\testRegistration_1778334026581.png
+2026-05-09 19:10:26.590 [main] INFO  ExtentReportListener - Screenshot attached to report: ./screenshots/testRegistration_1778334026581.png
+2026-05-09 19:10:26.951 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-09 19:10:27.485 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-09 19:18:34.832 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-09 19:18:34.849 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-09 19:18:35.226 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-09_19-18-34.html
+2026-05-09 19:18:35.227 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-09 19:18:36.791 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.97 (resolved driver for Chrome 148)
+2026-05-09 19:18:36.819 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\148.0.7778.97\chromedriver.exe
+2026-05-09 19:18:46.910 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-09 19:18:46.935 [main] INFO  ExtentReportListener - [Driver] Stored WebDriver instance for screenshot capture
+2026-05-09 19:18:48.290 [main] INFO  BasePage - [INFO] Entered 'Arden' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-09 19:18:49.058 [main] INFO  BasePage - [INFO] Entered 'Rogahn' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-09 19:18:50.273 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-09 19:18:50.362 [main] INFO  ExtentReportListener - [Screenshot] Captured and saved: C:\Users\Admin\IdeaProjects\TestNGProject\test-output\screenshots\testRegistration_1778334530355.png
+2026-05-09 19:18:50.368 [main] INFO  ExtentReportListener - Screenshot attached to report: ./screenshots/testRegistration_1778334530355.png
+2026-05-09 19:18:50.742 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-09 19:18:51.202 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-09 19:20:02.328 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-09 19:20:02.342 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-09 19:20:02.687 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-09_19-20-02.html
+2026-05-09 19:20:02.688 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-09 19:20:03.688 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.97 (resolved driver for Chrome 148)
+2026-05-09 19:20:03.787 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\148.0.7778.97\chromedriver.exe
+2026-05-09 19:20:13.265 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-09 19:20:13.282 [main] INFO  ExtentReportListener - [Driver] Stored WebDriver instance for screenshot capture
+2026-05-09 19:20:14.617 [main] INFO  BasePage - [INFO] Entered 'Joan' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-09 19:20:15.409 [main] INFO  BasePage - [INFO] Entered 'Nienow' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-09 19:20:15.414 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-09 19:20:15.551 [main] INFO  ExtentReportListener - [Screenshot] Captured and saved: C:\Users\Admin\IdeaProjects\TestNGProject\test-output\screenshots\testRegistration_1778334615545.png
+2026-05-09 19:20:15.557 [main] INFO  ExtentReportListener - Screenshot attached to report: ./screenshots/testRegistration_1778334615545.png
+2026-05-09 19:20:16.867 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-09 19:20:17.310 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-09 19:22:45.186 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-09 19:22:45.199 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-09 19:22:45.552 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-09_19-22-45.html
+2026-05-09 19:22:45.552 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-09 19:22:46.306 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.97 (resolved driver for Chrome 148)
+2026-05-09 19:22:46.353 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\148.0.7778.97\chromedriver.exe
+2026-05-09 19:22:56.236 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-09 19:22:56.257 [main] INFO  ExtentReportListener - [Driver] Stored WebDriver instance for screenshot capture
+2026-05-09 19:22:57.779 [main] INFO  BasePage - [INFO] Entered 'Ria' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-09 19:22:58.744 [main] INFO  BasePage - [INFO] Entered 'Cartwright' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-09 19:23:00.555 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-09 19:23:00.661 [main] INFO  ExtentReportListener - [Screenshot] Captured and saved: C:\Users\Admin\IdeaProjects\TestNGProject\test-output\screenshots\testRegistration_1778334780648.png
+2026-05-09 19:23:00.667 [main] INFO  ExtentReportListener - Screenshot attached to report: ./screenshots/testRegistration_1778334780648.png
+2026-05-09 19:23:01.040 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-09 19:23:01.502 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-09 19:24:32.321 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-09 19:24:32.335 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-09 19:24:32.694 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-09_19-24-32.html
+2026-05-09 19:24:32.695 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-09 19:24:33.490 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.97 (resolved driver for Chrome 148)
+2026-05-09 19:24:33.533 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\148.0.7778.97\chromedriver.exe
+2026-05-09 19:24:43.109 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-09 19:24:43.127 [main] INFO  ExtentReportListener - [Driver] Stored WebDriver instance for screenshot capture
+2026-05-09 19:24:45.129 [main] INFO  BasePage - [INFO] Entered 'Winnifred' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-09 19:24:45.929 [main] INFO  BasePage - [INFO] Entered 'Grimes' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-09 19:24:47.129 [main] ERROR ExtentReportListener - ✗ Test FAILED: testRegistration
+2026-05-09 19:24:47.214 [main] INFO  ExtentReportListener - [Screenshot] Captured and saved: C:\Users\Admin\IdeaProjects\TestNGProject\test-output\screenshots\testRegistration_1778334887207.png
+2026-05-09 19:24:47.218 [main] INFO  ExtentReportListener - Screenshot attached to report: ./screenshots/testRegistration_1778334887207.png
+2026-05-09 19:24:47.526 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-09 19:24:47.992 [main] INFO  ExtentReportListener - Extent Report generated successfully!
+2026-05-09 19:25:19.775 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\IdeaProjects\TestNGProject\testng.xml
+
+2026-05-09 19:25:19.789 [main] INFO  ExtentReportListener - ============ Test Suite Started ============
+2026-05-09 19:25:20.134 [main] INFO  ExtentReportListener - Report generated at: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/ExtentReport_2026-05-09_19-25-19.html
+2026-05-09 19:25:20.134 [main] INFO  ExtentReportListener - Screenshots directory: C:\Users\Admin\IdeaProjects\TestNGProject/test-output/screenshots
+2026-05-09 19:25:20.945 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using chromedriver 148.0.7778.97 (resolved driver for Chrome 148)
+2026-05-09 19:25:21.038 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Admin\.cache\selenium\chromedriver\win64\148.0.7778.97\chromedriver.exe
+2026-05-09 19:25:31.453 [main] INFO  ExtentReportListener - ============ Test: testRegistration Started ============
+2026-05-09 19:25:31.467 [main] INFO  ExtentReportListener - [Driver] Stored WebDriver instance for screenshot capture
+2026-05-09 19:25:32.727 [main] INFO  BasePage - [INFO] Entered 'Mickey' into element: By.xpath: //input[@id="vfb-5"]
+2026-05-09 19:25:33.532 [main] INFO  BasePage - [INFO] Entered 'Streich' into element: By.xpath: //input[@id="vfb-7"]
+2026-05-09 19:25:35.543 [main] INFO  ExtentReportListener - ✓ Test PASSED: testRegistration
+2026-05-09 19:25:35.855 [main] INFO  ExtentReportListener - ============ Test Suite Finished ============
+2026-05-09 19:25:36.292 [main] INFO  ExtentReportListener - Extent Report generated successfully!

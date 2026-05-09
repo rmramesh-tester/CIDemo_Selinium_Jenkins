@@ -39,7 +39,10 @@ public class RegistrationPage extends BasePage {
        sendKeys(lastName, last);
     }
 
-    public void selectGender() {
+    public void selectGender() throws InterruptedException {
+        //scrollToElement(gender);
+        waitForElementVisible(gender);
+        Thread.sleep(500);  // Small de
        click(gender);
     }
 
@@ -89,12 +92,12 @@ public class RegistrationPage extends BasePage {
     ) throws InterruptedException {
             enteruserName(first);
             enterlastName(last);
-            selectGender();
-            selectCourse();
-            enterAddress(add);
-            enterStreetAddress(street);
-            enterCity(cityName);
-            enterZip(zipCode);
+           // selectGender();
+//            selectCourse();
+//            enterAddress(add);
+//            enterStreetAddress(street);
+//            enterCity(cityName);
+//            enterZip(zipCode);
 //            enterState(stateName);
 //            enterEmail(emailId);
 //            enterMobile(mobileNumber);
