@@ -181,11 +181,11 @@ public class BasePage {
         actions.contextClick(driver.findElement(locator)).perform();
     }
 
-    public void dragAndDrop(By source, By target) {
-        actions.dragAndDrop(
-                driver.findElement(source),
-                driver.findElement(target)).perform();
-    }
+//    public void dragAndDrop(By source, By target) {
+//        actions.dragAndDrop(
+//                driver.findElement(source),
+//                driver.findElement(target)).perform();
+//    }
 
     // =========================
     // 🔹 KEYBOARD ACTIONS
