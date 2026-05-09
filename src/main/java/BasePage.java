@@ -177,9 +177,9 @@ public class BasePage {
         actions.doubleClick(driver.findElement(locator)).perform();
     }
 
-    public void rightClick(By locator) {
-        actions.contextClick(driver.findElement(locator)).perform();
-    }
+//    public void rightClick(By locator) {
+//        actions.contextClick(driver.findElement(locator)).perform();
+//    }
 
 //    public void dragAndDrop(By source, By target) {
 //        actions.dragAndDrop(
