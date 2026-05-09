@@ -275,9 +275,9 @@ public class BasePage {
         return driver.switchTo().alert().getText();
     }
 
-    public void sendAlertText(String text) {
-        driver.switchTo().alert().sendKeys(text);
-    }
+//    public void sendAlertText(String text) {
+//        driver.switchTo().alert().sendKeys(text);
+//    }
 
     // =========================
     // 🔹 FRAME HANDLING
