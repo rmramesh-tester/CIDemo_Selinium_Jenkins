@@ -303,9 +303,9 @@ public class BasePage {
         driver.switchTo().window(handle);
     }
 
-    public String getCurrentWindow() {
-        return driver.getWindowHandle();
-    }
+//    public String getCurrentWindow() {
+//        return driver.getWindowHandle();
+//    }
 
 //    public void switchToNewWindow() {
 //        for (String win : driver.getWindowHandles()) {
