@@ -271,9 +271,9 @@ public class BasePage {
         driver.switchTo().alert().dismiss();
     }
 
-    public String getAlertText() {
-        return driver.switchTo().alert().getText();
-    }
+//    public String getAlertText() {
+//        return driver.switchTo().alert().getText();
+//    }
 
 //    public void sendAlertText(String text) {
 //        driver.switchTo().alert().sendKeys(text);
